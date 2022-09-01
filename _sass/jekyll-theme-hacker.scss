@@ -6,7 +6,7 @@ $body-foreground: $gallery !default;
 $header: $conifer !default;
 $blockquote-color: $silver-chalice !default;
 $blockquote-border: $dove-grey !default;
-$container-max-width: 1000px;
+$container-max-width: 1600px;
 
 @mixin media-max-width($max-width) {
   @media (max-width: $max-width) {
@@ -187,6 +187,7 @@ table {
 
 th {
   text-align: left;
+  border-top: 0px;
   border-bottom: 1px dashed #b5e853;
   /*padding: 5px 10px;*/
 }
