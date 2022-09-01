@@ -2,4 +2,8 @@
 layout: default
 ---
 <h1> About Me </h1>
-<hr>
+<style> 
+  hr{
+    width: 100%
+  }
+</style>
