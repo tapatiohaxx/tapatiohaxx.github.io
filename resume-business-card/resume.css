@@ -1,0 +1,89 @@
+body {
+    font-family: "Lato", "Noto Sans", sans-serif;
+    --card-width: 1000px;
+    background-color: #ccc;
+}
+
+ul, ol {
+    list-style: none;
+    text-align: left;
+}
+
+#card {
+    /* Center the card on the page */
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+    /* Flex into horizontal*/
+    display: flex;
+    flex-flow: row nowrap;
+
+    /* Shadow all around */
+    box-shadow: 0 0 15px 5px #888;
+
+    /* Fix card size to 50% of width and height to 50% of width */
+    width: var(--card-width);
+    height: calc(var(--card-width) * 0.6);
+}
+
+/* Left half of the card */
+#left-half {
+    background-color: white;
+    position: relative;
+    text-align: center;
+    width: 50%;
+}
+
+#portrait {
+    border-radius: 1em;
+    width: 50%;
+    margin-top: 3em;
+}
+
+#name {
+    display: block;
+    font-size: 2em;
+}
+
+#contact-list {
+    margin-left: 2em;
+    margin-block-start: 0.5em;
+    margin-block-end: 0.5em;
+    padding-inline-start: 20px;
+}
+
+#links {
+    text-align: left;
+
+    margin-left: 0.5em;
+    padding-bottom: 0.5em;
+
+    position: absolute;
+    bottom: 0;
+}
+
+#links a {
+    margin-left: 0.5em;
+    text-decoration: none;
+    color: inherit;
+}
+
+.fa_custom:hover {
+    color: blue;
+}
+
+/* Right half of the card */
+#right-half {
+    background-color: #3bb922;
+    text-align: center;
+    width: 50%;
+}
+
+.info-card {
+    box-shadow: 5px 5px 5px 5px grey;
+    border-radius: 5px;
+    width: 75%;
+    margin: auto;
+}
