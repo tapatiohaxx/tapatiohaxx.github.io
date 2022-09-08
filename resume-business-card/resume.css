@@ -1,4 +1,4 @@
-@import "jekyll-theme-hacker";
+@import "/_sass/jekyll-theme-hacker.scss";
 body {
     /*font-family: "Lato", "Noto Sans", sans-serif;*/
     --card-width: 1000px;
