@@ -58,13 +58,14 @@ body {
 
     margin-left: 0.5em;
     padding-bottom: 0.5em;
-
+    color: green;
     position: absolute;
     bottom: 0;
+
 }
 
 #links a {
-    margin-left: 0.5em;
+    margin-left: 1em;
     text-decoration: none;
     color: green;
 }
