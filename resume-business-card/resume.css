@@ -1,7 +1,7 @@
 
 
 body {
-    font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
+    font-family: "Lato", "Noto Sans", sans-serif;
     --card-width: 1000px;
     background-image: url("/assets/images/bkg.png");
 }
