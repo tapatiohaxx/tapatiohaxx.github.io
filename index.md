@@ -9,11 +9,11 @@ layout: default
 <h3> Android Custom ROM Project (2022-12-14)</h3>
 <p> Currently in the process of researching the resources needed to build a custom Android ROM. </p>
 <p> <b> Goals </b></p> 
-<ol>
-<li> Make a version of Android that emulates the MIUI skin of Android </li>
-<li> Make a ROM that is ad free of Google telemetry and ads wwhile maintaining essential google services like Gmail and YouTube </li> 
+<ul>
+<li> Make a version of Android that emulates Xiaomi's MIUI skin of Android </li>
+<li> Make a ROM that is free of ads  and telemetry from Google and Xiaomi wwhile maintaining essential Google services like Gmail and YouTube </li> 
 <li> Make a ROM compatible with OnePlus 8T and another [unspecified] phone. </li>
-</ol>
+</ul>
 
 <h3> FAST CTF </h3>
 <p> I am on the team developing a cybersecurity CTF event for the Forensics and Security Tech. club at Cal Poly Pomona. We are currently focused on finding inspiration for questions that the CTF will use. </p>
