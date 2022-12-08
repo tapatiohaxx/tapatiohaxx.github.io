@@ -2,6 +2,21 @@
 layout: default
 ---
 
-<h1> <a href="./resume-business-card/resume.html" > Resume </a> </h1>
-<hr>
+<h1> <u> About Me </u> </h1>
+<p> Hello World! I am Matthew Plascencia. I am currently a graduate student in Computer Science at California State Polytechnic University: Pomona (Go Broncos!). I am continuing there after achieving my Bachelor's Degree at that school in 2021. My research interests in Compter Science include cloud computing and cybersecurity. </p>
+
+<h1> News </h1>
+<h3> Android Custom ROM Project (2022-12-14)</h3>
+<p> Currently in the process of researching the resources needed to build a custom Android ROM. </p>
+<p> <b> Goals </b></p> 
+<ol>
+<li> Make a version of Android that emulates the MIUI skin of Android </li>
+<li> Make a ROM that is ad free of Google telemetry and ads wwhile maintaining essential google services like Gmail and YouTube </li> 
+<li> Make a ROM compatible with OnePlus 8T and another [unspecified] phone. </li>
+</ol>
+
+<h3> FAST CTF </h3>
+<p> I am on the team developing a cybersecurity CTF event for the Forensics and Security Tech. club at Cal Poly Pomona. We are currently focused on finding inspiration for questions that the CTF will use. </p>
+
+
 
