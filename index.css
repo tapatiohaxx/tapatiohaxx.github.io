@@ -1,7 +1,7 @@
 .half-box {
     position: relative;
-    width: 500px;
-    background-color: #eeeeee;
+    width: 1000px;
+    
     padding: 20px;
   }
   .half-box::before {
@@ -18,7 +18,7 @@
     margin-left: 20px;
     padding: 0 10px;
     top: -20px;
-    background-color: #eee;
+    
   }
   p {
     margin-top: 30px;
