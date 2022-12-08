@@ -1,7 +1,7 @@
 .half-box {
     position: relative;
     width: 1000px;
-    background: url("./assets/images/blacktocat.png") 0 0;
+    background: url("./assets/images/bkg.png");
     padding: 20px;
   }
   .half-box::before {
@@ -18,7 +18,7 @@
     margin-left: 20px;
     padding: 0 10px;
     top: -20px;
-    background: url("./assets/images/blacktocat.png") 0 0;
+    background: url("./assets/images/bkg.png");
 
   }
   p {
