@@ -2,7 +2,7 @@
 <html>
     <head>
         <meta charset="utf-8">
-        <title>Nicholas Baron</title>
+        <title>zmatthew Plascencia</title>
         <link rel="stylesheet" href="resume.css">
 
         <!-- External Dependencies -->
